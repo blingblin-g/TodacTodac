@@ -1,5 +1,10 @@
 # 토닥토닥 (코드네임 WeSick)
 
+<img width="1006" alt="스크린샷 2021-06-17 오후 12 55 30" src="https://user-images.githubusercontent.com/60090391/122328845-4de16700-cf6b-11eb-973b-1401b4ea1f37.png">
+
+<img width="1080" alt="스크린샷 2021-06-17 오후 12 56 40" src="https://user-images.githubusercontent.com/60090391/122328915-779a8e00-cf6b-11eb-9ef5-3e0b541ff652.png">
+
+
 ## 1. 프로젝트 소개
 
 - `동병상련의 아픔을 가진 유저들의 사회적 연대 강화를 목적으로 하는 지역 기반 커뮤니티 서비스`
